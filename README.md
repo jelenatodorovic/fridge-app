@@ -1,11 +1,10 @@
-Fridge application (backend service)
+# Fridge application (backend service)
 
-*** Note: frontend application is in https://github.com/jelenatodorovic/fridge-fe.
-*** For some reason frontend is couldn't be pushed here. So I created separete repository.
+*** Note: frontend application is in https://github.com/jelenatodorovic/fridge-fe
 
-cd backend
-mvn clean install
-./mvnw spring-boot:run
+#cd backend<br>
+#mvn clean install<br>
+#./mvnw spring-boot:run<br>
 
 Database(H2) -  http://localhost:8080/h2-console/
 
