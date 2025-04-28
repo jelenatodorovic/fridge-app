@@ -1,6 +1,7 @@
 Fridge application (backend service)
 
-*** Note: frontend application is in https://github.com/jelenatodorovic/fridge-fe
+*** Note: frontend application is in https://github.com/jelenatodorovic/fridge-fe.
+*** For some reason frontend is couldn't be pushed here. So I created separete repository.
 
 cd backend
 mvn clean install
@@ -11,3 +12,5 @@ Database(H2) -  http://localhost:8080/h2-console/
 Fridge app is simple app that provides services for creating different types of fridges.
 This app also provides functionality of storing items into fridges, keeping track of 'best before' date 
 and removing items.
+
+
